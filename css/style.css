@@ -627,7 +627,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .row{
-  padding: 20px 0 25px;
+  padding: 20px 0 65px;
 }
 
 .trainer {
@@ -816,7 +816,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .pricing {
   display: block;
   float: left;
-  margin-bottom: 30px;
+  margin-bottom: 0px;
   width: 100%;
 }
 
@@ -868,7 +868,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #888f94;
 }
 .pricing-plan.pricing-plan-offer {
-  margin-bottom: 24px;
+  margin-bottom: 0px;
 }
 .pricing-plan span {
   display: block;
