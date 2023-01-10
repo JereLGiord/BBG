@@ -97,6 +97,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-nav .top {
   padding: 7px 0;
   margin-bottom: 0;
+  background-color: #080766;
 }
 .fh5co-nav .top .num, .fh5co-nav .top .fh5co-social {
   display: inline-block;
