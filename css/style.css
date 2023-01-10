@@ -95,7 +95,6 @@ h1, h2, h3, h4, h5, h6, figure {
   padding: 7px 0;
 }
 .fh5co-nav .top {
-  background: #080766;
   padding: 7px 0;
   margin-bottom: 0;
 }
@@ -278,7 +277,7 @@ h1, h2, h3, h4, h5, h6, figure {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.5);
+  background: url();
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -356,7 +355,6 @@ h1, h2, h3, h4, h5, h6, figure {
   top: 0;
   left: 0;
   right: 0;
-  background:rgba(0, 0, 0, 1);
 }
 .fh5co-cover > .fh5co-container {
   position: relative;
@@ -420,7 +418,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: inline-block;
   zoom: 1;
   *display: inline;
-  color: #080766;
+  color: #6799d1;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -559,7 +557,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-blog,
 #fh5co-contact,
 #fh5co-footer {
-  padding: 7em 0;
+  padding: 4em 0;
   clear: both;
 }
 
@@ -570,9 +568,7 @@ h1, h2, h3, h4, h5, h6, figure {
     padding: 0 0 100%;
     
   }
-}
 
-@media screen and (max-width: 768px) {
   #fh5co-services,
   #fh5co-started,
   #fh5co-testimonial,
